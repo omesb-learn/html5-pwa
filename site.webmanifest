@@ -6,7 +6,7 @@
     "type": "image/png",
     "sizes": "192x192"
   }],
-  "start_url": "/html5-bp-pwa",
+  "start_url": "/html5-bp-pwa/",
   "display": "standalone",
   "background_color": "#fafafa",
   "theme_color": "#fafafa"
