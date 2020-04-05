@@ -1,6 +1,6 @@
 {
-  "short_name": "appName",
-  "name": "appName",
+  "short_name": "html5-PWA",
+  "name": "html5 boilerplate PWA",
   "icons": [
     {
       "src": "icon.png",
