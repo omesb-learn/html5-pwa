@@ -1,4 +1,4 @@
 // register the service-worker.js
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/html5-bp-pwa/service-worker.js', {scope: './'});
+    navigator.serviceWorker.register('/html5-bp-pwa/service-worker.js', {scope: './html5-bp-pwa'});
 }
