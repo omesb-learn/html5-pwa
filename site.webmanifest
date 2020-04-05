@@ -1,16 +1,13 @@
 {
   "short_name": "appName",
   "name": "appName",
-  "icons": [{
-    "src": "icon.png",
-    "type": "image/png",
-    "sizes": "192x192"
-  },
-  {
-    "src": "tile.png",
-    "type": "image/png",
-    "sizes": "512x512"
-  }],
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
   "start_url": "/html5-bp-pwa/",
   "display": "standalone",
   "background_color": "#fafafa",
